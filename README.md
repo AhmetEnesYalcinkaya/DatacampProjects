@@ -1,4 +1,4 @@
 ### Datacamp Projects 
 
-<img src="https://datagious.com/wp-content/uploads/2021/01/datacamp-logo-758x284.png" width="250">
+<img src="https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png" width="250">
 
